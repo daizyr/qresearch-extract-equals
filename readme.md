@@ -1,5 +1,7 @@
-% sh update.sh  # pulls /qresearch/catalog.html, then all threads as html
-% sh extract.sh # runs through all thread .html, in creation order and extracts lines of the form, "X = Y"
+To run:
+
+    % sh update.sh  # pulls /qresearch/catalog.html, then all threads as html
+    % sh extract.sh # runs through all thread .html, in creation order and extracts lines of the form, "X = Y"
 
 Example resulting "training.out" file, suitable for pasting into a chan comment:
 
